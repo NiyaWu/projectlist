@@ -1,0 +1,149 @@
+[
+  {
+    "id": 1,
+    "name": "Ronin",
+    "description": "A fully Ethereum-compatible smart contract parachain on Polkadot and Kusama, enabling developers to deploy existing Solidity smart contracts.",
+    "logoUrl": "/Featured/Ronin.png",
+    "website": "https://roninchain.com/"
+  },
+  {
+    "id": 2,
+    "name": "Aethir",
+    "description": "The world's fastest modular execution layer, designed to scale with the modular blockchain stack.",
+    "logoUrl": "/Featured/Aethir.png",
+    "website": "https://aethir.com/"
+  },
+  {
+    "id": 3,
+    "name": "Avail",
+    "description": "A dedicated Layer 1 blockchain for gaming, built to scale with the demands of modern games and applications.",
+    "logoUrl": "/Featured/Avail.png",
+    "website": "https://www.availproject.org/"
+  },
+  {
+    "id": 4,
+    "name": "EthSign",
+    "description": "A blockchain built for gaming, designed to provide a seamless experience for users and developers.",
+    "logoUrl": "/Featured/EthSign.png",
+    "website": "https://ethsign.xyz/"
+  },
+  {
+    "id": 5,
+    "name": "Sophon",
+    "description": "Infrastructure platform for AI and gaming applications, providing high-performance computing resources.",
+    "logoUrl": "/Featured/Sophon.png",
+    "website": "https://linktr.ee/sophon_xyz"
+  },
+  {
+    "id": 6,
+    "name": "Truflation",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Truflation.png",
+    "website": "https://linktr.ee/truflation"
+  },
+  {
+    "id": 7,
+    "name": "Dexguru (Guru Network AI)",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Dexguru.png",
+    "website": "https://dex.guru/"
+  },
+  {
+    "id": 8,
+    "name": "Impossible Cloud Network",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Impossible Cloud Network.png",
+    "website": "https://www.impossiblecloud.com/"
+  },
+  {
+    "id": 9,
+    "name": "Prisma",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Prisma.png",
+    "website": "https://prismafinance.com/"
+  },
+  {
+    "id": 10,
+    "name": "Sparkball",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Sparkball.png",
+    "website": "https://sparkball.gg/"
+  },
+  {
+    "id": 11,
+    "name": "Solv Protocol",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Solv Protocol.png",
+    "website": "https://solv.finance/"
+  },
+  {
+    "id": 12,
+    "name": "Merit Circle (Beam)",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Beam.png",
+    "website": "https://onbeam.com/"
+  },
+  {
+    "id": 13,
+    "name": "XAI",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/XAI.png",
+    "website": "https://xai.games/"
+  },
+  {
+    "id": 14,
+    "name": "Fuel",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Fuel.png",
+    "website": "https://fuel.network/"
+  },
+  {
+    "id": 15,
+    "name": "Zentry",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Zentry.png",
+    "website": "https://zentry.io/"
+  },
+  {
+    "id": 16,
+    "name": "Genopets",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Genopets.png",
+    "website": "https://www.genopets.me/"
+  },
+  {
+    "id": 17,
+    "name": "Carv",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Carv.png",
+    "website": "https://carv.io/"
+  },
+  {
+    "id": 18,
+    "name": "Jambo",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Jambo.png",
+    "website": "https://jambophone.xyz/"
+  },
+  {
+    "id": 19,
+    "name": "Anoma",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Anoma.png",
+    "website": "https://anoma.net/"
+  },
+  {
+    "id": 20,
+    "name": "Hemi",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Hemi.png",
+    "website": "https://hemi.finance/lander"
+  },
+  {
+    "id": 21,
+    "name": "Headquarters (HQ.xyz)",
+    "description": "Building the infrastructure for the next generation of decentralized applications with a focus on scalability.",
+    "logoUrl": "/Featured/Headquarters (HQ.xyz).png",
+    "website": "https://www.hq.xyz/"
+  }
+]
