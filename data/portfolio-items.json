@@ -217,14 +217,6 @@
     "logoUrl": "/Form Network.png"
   },
   {
-    "name": "Fuel",
-    "website": "https://fuel.network/",
-    "tags": [
-      "Chain"
-    ],
-    "logoUrl": "/Fuel.png"
-  },
-  {
     "name": "Genopets",
     "website": "https://www.genopets.me/",
     "tags": [
@@ -445,14 +437,6 @@
     "logoUrl": "/Powerloom.png"
   },
   {
-    "name": "Prisma",
-    "website": "https://x.com/PrismaFi",
-    "tags": [
-      "Defi"
-    ],
-    "logoUrl": "/Prisma.png"
-  },
-  {
     "name": "Ronin",
     "website": "https://roninchain.com/",
     "tags": [
@@ -589,7 +573,7 @@
   },
   {
     "name": "Zentry",
-    "website": "https://zentry.io/",
+    "website": "https://zentry.com/",
     "tags": [
       "Gaming",
       "NFT"
