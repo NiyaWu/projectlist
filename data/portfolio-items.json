@@ -1,7 +1,7 @@
 [
   {
     "name": "10kLives",
-    "website": "https://sinealabs.com/",
+    "website": "https://x.com/10KLives",
     "tags": [
       "Gaming"
     ],
@@ -108,15 +108,6 @@
     "logoUrl": "/Blocksec.png"
   },
   {
-    "name": "Bowled",
-    "website": "https://bowled.io/",
-    "tags": [
-      "Gaming",
-      "NFT"
-    ],
-    "logoUrl": "/stylized-a-logo.png"
-  },
-  {
     "name": "Brickken",
     "website": "https://www.brickken.com/en",
     "tags": [
@@ -185,7 +176,7 @@
   },
   {
     "name": "Eclipse",
-    "website": "https://eclipse.builders/",
+    "website": "https://www.eclipse.xyz/",
     "tags": [
       "Launchpad"
     ],
@@ -209,7 +200,7 @@
   },
   {
     "name": "Fluo",
-    "website": "https://fluo.finance/lander",
+    "website": "https://linktr.ee/fluofinance",
     "tags": [
       "Defi",
       "Trading"
@@ -252,7 +243,7 @@
   },
   {
     "name": "Hemi",
-    "website": "https://hemi.finance/lander",
+    "website": "https://hemi.xyz/",
     "tags": [
       "Bitcoin",
       "Chain"
@@ -311,7 +302,7 @@
   },
   {
     "name": "Lewk",
-    "website": "https://www.lewk.ai/",
+    "website": "https://lewk.com/",
     "tags": [
       "Mobile"
     ],
@@ -328,7 +319,7 @@
   },
   {
     "name": "Mancake",
-    "website": "https://mancakeswap.finance/",
+    "website": "https://x.com/MancakeSwap",
     "tags": [
       "Dex"
     ],
@@ -455,7 +446,7 @@
   },
   {
     "name": "Prisma",
-    "website": "https://prismafinance.com/",
+    "website": "https://x.com/PrismaFi",
     "tags": [
       "Defi"
     ],
@@ -587,14 +578,6 @@
       "Chain"
     ],
     "logoUrl": "/Viction.png"
-  },
-  {
-    "name": "Wido (Walnut)",
-    "website": "https://wido.finance/",
-    "tags": [
-      "Infra"
-    ],
-    "logoUrl": "/stylized-a-logo.png"
   },
   {
     "name": "XAI",
